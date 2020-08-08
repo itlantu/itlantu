@@ -1,5 +1,3 @@
 ## `I am lantu`
 
-* 吃饭
-* 睡觉
-* 写代码
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itlantu)](https://github.com/anuraghazra/github-readme-stats)
