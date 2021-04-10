@@ -1,5 +1,10 @@
 ## `I am lantu`
 
+-------------
+
+___programing language___: `C/C++` `Javacript` `Lua` 
+
+<br>
 
 card1|card2|card3
 --|--|--
