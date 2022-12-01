@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=800&height=100&lines=I+am+lantu)](https://git.io/typing-svg)
 -------------
 
-___programing language___: `C/C++` `Javacript` `Lua` 
+___programing language___: `C/C++` `Javacript`
 
 <br>
 
