@@ -20,21 +20,10 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)]()
 [![Paddle](https://img.shields.io/badge/Paddle-black?style=for-the-badge&logo=PyTorch)]()
 
-
-
 <br>
 
-<br>
-
-✔|✔|✔
---|--|--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itlantu)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itlantu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itlantu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+|||
+--|--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itlantu&theme=dark&hide_border=true&locale=zh)]()|[![stats-cards](https://stats.justsong.cn/api/github?username=itlantu)]()
 
 
-
-<br>
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itlantu&theme=dark&hide_border=true&locale=zh)](https://git.io/streak-stats)
-  
-</div>
